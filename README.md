@@ -9,3 +9,7 @@ npm run typecheck
 npm run build
 ```
 
+## Preview
+
+![FermentFolk preview](docs/screenshot.png)
+
